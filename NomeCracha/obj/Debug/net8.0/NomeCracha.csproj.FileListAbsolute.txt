@@ -1,0 +1,14 @@
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\bin\Debug\net8.0\NomeCracha.exe
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\bin\Debug\net8.0\NomeCracha.deps.json
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\bin\Debug\net8.0\NomeCracha.runtimeconfig.json
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\bin\Debug\net8.0\NomeCracha.dll
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\bin\Debug\net8.0\NomeCracha.pdb
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\obj\Debug\net8.0\NomeCracha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\obj\Debug\net8.0\NomeCracha.AssemblyInfoInputs.cache
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\obj\Debug\net8.0\NomeCracha.AssemblyInfo.cs
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\obj\Debug\net8.0\NomeCracha.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\obj\Debug\net8.0\NomeCracha.dll
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\obj\Debug\net8.0\refint\NomeCracha.dll
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\obj\Debug\net8.0\NomeCracha.pdb
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\obj\Debug\net8.0\NomeCracha.genruntimeconfig.cache
+C:\Users\Luan\Desktop\ModalGR\NomeCracha\obj\Debug\net8.0\ref\NomeCracha.dll

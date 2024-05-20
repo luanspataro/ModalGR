@@ -1,0 +1,14 @@
+C:\Users\Luan\Desktop\ModalGR\SepararDados\obj\Debug\net8.0\SepararDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Desktop\ModalGR\SepararDados\obj\Debug\net8.0\SepararDados.AssemblyInfoInputs.cache
+C:\Users\Luan\Desktop\ModalGR\SepararDados\obj\Debug\net8.0\SepararDados.AssemblyInfo.cs
+C:\Users\Luan\Desktop\ModalGR\SepararDados\obj\Debug\net8.0\SepararDados.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Desktop\ModalGR\SepararDados\bin\Debug\net8.0\SepararDados.exe
+C:\Users\Luan\Desktop\ModalGR\SepararDados\bin\Debug\net8.0\SepararDados.deps.json
+C:\Users\Luan\Desktop\ModalGR\SepararDados\bin\Debug\net8.0\SepararDados.runtimeconfig.json
+C:\Users\Luan\Desktop\ModalGR\SepararDados\bin\Debug\net8.0\SepararDados.dll
+C:\Users\Luan\Desktop\ModalGR\SepararDados\bin\Debug\net8.0\SepararDados.pdb
+C:\Users\Luan\Desktop\ModalGR\SepararDados\obj\Debug\net8.0\SepararDados.dll
+C:\Users\Luan\Desktop\ModalGR\SepararDados\obj\Debug\net8.0\refint\SepararDados.dll
+C:\Users\Luan\Desktop\ModalGR\SepararDados\obj\Debug\net8.0\SepararDados.pdb
+C:\Users\Luan\Desktop\ModalGR\SepararDados\obj\Debug\net8.0\SepararDados.genruntimeconfig.cache
+C:\Users\Luan\Desktop\ModalGR\SepararDados\obj\Debug\net8.0\ref\SepararDados.dll
